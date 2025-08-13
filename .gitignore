@@ -1,0 +1,9 @@
+# keep big/raw and generated stuff out of git
+data/
+artifacts/
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.DS_Store
+**/.DS_Store
+*.zip
+*.joblib
